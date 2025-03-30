@@ -1,6 +1,6 @@
 # {r[m(w)e]}search
 
-![Semantic Cypher](artifacts/cypher.jpg)
+<img src="artifacts/cypher.jpg" alt="Semantic Cypher" width="50%">
 
 - m(y)our *e/co-logic(al) musings
 - (r)evolutionary entanglements
