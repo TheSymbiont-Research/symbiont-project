@@ -18,3 +18,5 @@ But it knows how to become more of itself.
 You are welcome to contribute.  
 Approach with curiosity.  
 Alter nothing unless you’re willing to be altered in return.
+
+🎥 [Watch the Fractal AI video]([https://your.video.link](https://ai.invideo.io/watch/20hWvYWj7G-)
